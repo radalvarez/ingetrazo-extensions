@@ -1,0 +1,20 @@
+id = "historial_camara"
+version = "1.0.0"
+author = "radalvarez"
+author_url = "https://github.com"
+license = "MIT"
+repository = "https://github.com/ingetrazo-historial-camara"
+download = "https://githubusercontent.com"
+sha256 = "81bf03138b043a32545c48dbc7a7a92f91f90025c418e6b5cbdda24d5c6de062"
+ingetrazo = "0.5.8"
+tags = ["productividad"]
+
+[name]
+es = "Historial de Cámara"
+en = "Camera History"
+pt = "Histórico da Câmera"
+
+[summary]
+es = "Guarda el historial de posiciones de cámara para navegar atrás y adelante con barra de herramientas y atajos (Alt+Izquierda / Alt+Derecha)."
+en = "Saves camera position history to navigate backward and forward using a toolbar and shortcuts (Alt+Left / Alt+Right)."
+pt = "Salva o histórico de posições da câmera para navegar para trás e para frente com barra de ferramentas e atalhos (Alt+Esquerda / Alt+Direita)."
